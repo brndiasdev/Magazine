@@ -30,7 +30,7 @@ Feel free to modify the HTML and CSS files to customize the magazine layout acco
 
 ## Credits
 
-The Magazine project was developed by [Your Name](https://github.com/yourusername).
+The Magazine project was developed by [BrnDiasDev](https://github.com/brndiasdev).
 
 ## License
 
